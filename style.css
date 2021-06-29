@@ -1,0 +1,7 @@
+img {
+    width: 250px;
+    border-style: solid;
+    border-color: red green blue yellow;
+    /* red top, green right, blue bottom and yellow left */;
+    border-width: medium;
+}
